@@ -5,7 +5,7 @@ export default function Navbar(){
             <div className=" text-4xl pl-6 "> ♣ </div>
             <ul className="w-full flex space-x-5 justify-end pr-6  "> 
                <Link href="/"> <li> Home</li></Link>  
-               <Link href="/page"> <li>Normal </li> </Link> 
+               <Link href="/page"> <li>Manage Data </li> </Link> 
                <Link href="/page/about"> <li>About us </li>  </Link>
                <Link href="/page/List"> <li>ListOfPosts </li>  </Link>  
             </ul>
